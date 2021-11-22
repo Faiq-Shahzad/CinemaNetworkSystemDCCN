@@ -18,7 +18,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Ahmed
+ * @author Muhammad Ahmed
  */
 public class client {
     
